@@ -20,6 +20,7 @@ Ideally, we will tag a release once this is somewhat populated.
 | Fork ||
 | Hard Fork ||
 | hash | |
+| hash rate | |
 | Ledger ||
 | Merkle Tree ||
 | Mining ||
