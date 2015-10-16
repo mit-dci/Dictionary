@@ -12,7 +12,7 @@ Ideally, we will tag a release once this is somewhat populated.
 | Blockchain Technology | |
 | blockchain | |
 | Bloom Filter||
-| Byzantine Tolerant ||
+| Byzantine Fault Tolerance | A system that can continue to operate with up to _f_ failures under the byzantine failure model. Under this failure model, faulty nodes may operate arbitrarily.|
 | Censorship Resistant ||
 | Consensus ||
 | Consistency ||
