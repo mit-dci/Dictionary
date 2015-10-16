@@ -18,3 +18,4 @@ Ideally, we will tag a release once this is somewhat populated.
 | proof of work (pow) ||
 | proof of stake | |
 | transaction||
+| hashrate ||
