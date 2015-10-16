@@ -28,6 +28,7 @@ Ideally, we will tag a release once this is somewhat populated.
 | proof of stake | |
 | proof of work (pow) ||
 | Scalability ||
+| Sidechain ||
 | signature | |
 | Soft Fork ||
 | The Blockchain | |
