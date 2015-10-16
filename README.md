@@ -7,14 +7,31 @@ Ideally, we will tag a release once this is somewhat populated.
 
 | Term | Definition |
 | --- | --- |
-| Example | Example |
 | Bitcoin | |
 | bitcoin | |
-| blockchain | |
-| The Blockchain | |
 | Blockchain Technology | |
-| signature | |
+| blockchain | |
+| Bloom Filter||
+| Byzantine Tolerant ||
+| Censorship Resistant ||
+| Consensus ||
+| Consistency ||
+| Core Developer ||
+| Fork ||
+| Hard Fork ||
 | hash | |
-| proof of work (pow) ||
+| Ledger ||
+| Merkle Tree ||
+| Mining ||
+| Node ||
 | proof of stake | |
+| proof of work (pow) ||
+| Scalability ||
+| signature | |
+| Soft Fork ||
+| The Blockchain | |
 | transaction||
+| User ||
+| Validating ||
+| Wallet ||
+| Zero Knowledge Proof||
