@@ -31,6 +31,7 @@ Ideally, we will tag a release once this is somewhat populated.
 | signature | |
 | Soft Fork ||
 | The Blockchain | |
+| Tidbit | |
 | transaction||
 | User ||
 | Validating ||
