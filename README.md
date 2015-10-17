@@ -48,4 +48,4 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | User ||
 | Validating ||
 | Wallet | The software used for interfacing with a cryptocurrency to create new transactions or view previous activity. |
-| Zero Knowledge Proof | A proof which does not reveal the way in which is was proved. For example, it could be proven that one knows the prime facotrs of a number without revealing the factors. |
+| Zero Knowledge Proof | A proof which does not reveal the way in which is was proved. For example, it could be proven that one knows the prime factors of a number without revealing the factors. |
