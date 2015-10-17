@@ -25,11 +25,13 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | Fork ||
 | Hard Fork ||
 | Hash | |
+| Hash Chain | The successive application of a hash function to a piece of data. The hash function can be applied successively to additional pieces of data in order to record the chronology of data's existence and secure non-repudiation. |
 | Hash Rate | |
 | Ledger ||
 | Merkle Tree | a hash tree data structure for efficiently committing to information. Informally, given a hash h, MerkleTree(h,a) = h(MerkleTree(a[:half])+MerkleTree(a[half:])). Proofs of membership are O(log n)|
 | Mining ||
 | Node ||
+| Non-repudiation | A state where the author of validity of signature will not be able to successfully challenged. |
 | Private Key ||
 | Proof of Stake | |
 | Proof of Work (pow) ||
