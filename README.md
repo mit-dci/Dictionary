@@ -40,7 +40,6 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | Sidechain ||
 | Signature | |
 | Soft Fork ||
-| The Blockchain | |
 | Tidbit | |
 | Timestamp | |
 | Transaction| Generally, an operation that should have at most once semantics, such as a transfer of funds. |
