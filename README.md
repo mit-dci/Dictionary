@@ -13,7 +13,7 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | bitcoin | |
 | Blind Signature | A digital signature where the content of a message is disguised before it is signed. This allows privacy to be maintained when the message author and signer are different parties. |
 | Blockchain Technology | Blockchain technology may refer to any form of public ledger that solves the double-spending and consensus problems or can mean more narrowly a public ledger based on the Bitcoin proof of work system. |
-| Blockchain, The | "The Blockchain" is the Bitcoin ledger connected to the Bitcoin genesis root. |
+| Blockchain, The | "The Blockchain" is the Bitcoin ledger connected to the Bitcoin genesis block. |
 | Bloom Filter| A probablistic set data structure, the "opposite" of a cache. Can return a false positive for membership, but never a false negative. |
 | Byzantine Fault Tolerance | A system that can continue to operate with up to _f_ failures under the byzantine failure model. Under this failure model, faulty nodes may operate arbitrarily.|
 | Censorship Resistant | A system is censorship resistant if no user can block another user's actions |
