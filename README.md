@@ -4,6 +4,7 @@ Ideally, we will tag a release once this is somewhat populated. We should probab
 
 The tricky part is that upper-case bitcoin might mean something different than lower-case, but suggest that we use uppercase for everything on this list and note anything that should be in lower case. - Joi
 
+Creative Commons BY-3.0 https://creativecommons.org/licenses/by/3.0/
 
 # Dictionary
 
@@ -49,3 +50,14 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | Validating ||
 | Wallet | The software used for interfacing with a cryptocurrency to create new transactions or view previous activity. |
 | Zero Knowledge Proof | A proof which does not reveal the way in which is was proved. For example, it could be proven that one knows the prime factors of a number without revealing the factors. |
+
+We may want to put these in a different document but:
+
+Other Bitcoin glossaries and dictionaries
+
+| Bitcoin Simplified | http://bitcoinsimplified.org/definitions/ |
+| Bitcoin.org | https://bitcoin.org/en/vocabulary |
+| coinbase | https://support.coinbase.com/customer/portal/articles/1833695-bitcoin-glossary |
+| CoinDesk | http://www.coindesk.com/information/bitcoin-glossary/ |
+| Oleg Andreev | https://github.com/oleganza/bitcoin-papers/blob/master/BitcoinGlossary.md |
+
