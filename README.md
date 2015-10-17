@@ -31,7 +31,7 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | Merkle Tree | a hash tree data structure for efficiently committing to information. Informally, given a hash h, MerkleTree(h,a) = h(MerkleTree(a[:half])+MerkleTree(a[half:])). Proofs of membership are O(log n)|
 | Mining ||
 | Node ||
-| Non-repudiation | A state where the author of validity of signature will not be able to successfully challenged. |
+| Non-repudiation | A state where the validity of a signature will not be able to be successfully challenged. |
 | Private Key ||
 | Proof of Stake | |
 | Proof of Work (pow) ||
