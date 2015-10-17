@@ -55,7 +55,7 @@ We may want to put these in a different document but:
 
 Other Bitcoin glossaries and dictionaries
 
-| Sie | URL |
+| Site | URL |
 | --- | --- |
 | Bitcoin Simplified | http://bitcoinsimplified.org/definitions/ |
 | Bitcoin.org | https://bitcoin.org/en/vocabulary |
