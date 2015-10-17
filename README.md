@@ -43,7 +43,7 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | The Blockchain | |
 | Tidbit | |
 | Timestamp | |
-| transaction| Generally, an operation that should have at most once semantics, such as a transfer of funds. |
+| Transaction| Generally, an operation that should have at most once semantics, such as a transfer of funds. |
 | User ||
 | Validating ||
 | Wallet | The software used for interfacing with a cryptocurrency to create new transactions or view previous activity. |
