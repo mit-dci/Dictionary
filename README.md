@@ -4,8 +4,6 @@ Ideally, we will tag a release once this is somewhat populated. We should probab
 
 The tricky part is that upper-case bitcoin might mean something different than lower-case, but suggest that we use uppercase for everything on this list and note anything that should be in lower case. - Joi
 
-Creative Commons BY-3.0 https://creativecommons.org/licenses/by/3.0/
-
 # Dictionary
 
 | Term | Definition |
