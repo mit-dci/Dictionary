@@ -30,14 +30,19 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | Merkle Tree | a hash tree data structure for efficiently committing to information. Informally, given a hash h, MerkleTree(h,a) = h(MerkleTree(a[:half])+MerkleTree(a[half:])). Proofs of membership are O(log n)|
 | Mining ||
 | Node ||
+| Private Key ||
 | Proof of Stake | |
 | Proof of Work (pow) ||
+| Public Key | |
+| Public Key Infrastructure (PKI) ||
 | Scalability ||
+| SHA-256 | |
 | Sidechain ||
 | Signature | |
 | Soft Fork ||
 | The Blockchain | |
 | Tidbit | |
+| Timestamp | |
 | transaction| Generally, an operation that should have at most once semantics, such as a transfer of funds. |
 | User ||
 | Validating ||
