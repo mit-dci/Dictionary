@@ -51,7 +51,7 @@ Creative Commons BY-3.0 https://creativecommons.org/licenses/by/3.0/
 | Wallet | The software used for interfacing with a cryptocurrency to create new transactions or view previous activity. |
 | Zero Knowledge Proof | A proof which does not reveal the way in which is was proved. For example, it could be proven that one knows the prime factors of a number without revealing the factors. |
 
-**We may want to put these in a different document but:**
+_We may want to put these in a different document but:_
 
 ## Other Bitcoin glossaries and dictionaries
 
