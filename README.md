@@ -8,8 +8,8 @@ The tricky part is that upper-case bitcoin might mean something different than l
 
 | Term | Definition |
 | --- | --- |
-| Bitcoin | |
-| bitcoin | |
+| Bitcoin | The Bitcoin blockchain |
+| bitcoin | A token from the Bitcoin blockchain |
 | Blind Signature | A digital signature where the content of a message is disguised before it is signed. This allows privacy to be maintained when the message author and signer are different parties. |
 | Blockchain Technology | Blockchain technology may refer to any form of public ledger that solves the double-spending and consensus problems or can mean more narrowly a public ledger based on the Bitcoin proof of work system. |
 | Blockchain, The | "The Blockchain" is the Bitcoin ledger connected to the Bitcoin genesis block. |
