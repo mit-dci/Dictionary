@@ -21,8 +21,9 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | Core Developer | A developer with commit access to the main source code repository for a project. |
 | Core Contributor | A developer who has written code that has been accepted into the main source code repository for a project. |
 | Core Maintainer | The lead Core Developer for a project, oversees development, merges, and releases.|
-| Fork ||
+| Fork |A divergence in the Blockchain|
 | Hard Fork ||
+| Soft Fork ||
 | Hash | |
 | Hash Chain | The successive application of a hash function to a piece of data. The hash function can be applied successively to additional pieces of data in order to record the chronology of data's existence and secure non-repudiation. |
 | Hash Rate | |
