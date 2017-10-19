@@ -8,8 +8,8 @@ The tricky part is that upper-case bitcoin might mean something different than l
 
 | Term | Definition |
 | --- | --- |
-| Bitcoin | |
-| bitcoin | |
+| Bitcoin | The Bitcoin blockchain |
+| bitcoin | A token from the Bitcoin blockchain |
 | Blind Signature | A digital signature where the content of a message is disguised before it is signed. This allows privacy to be maintained when the message author and signer are different parties. |
 | Blockchain Technology | Blockchain technology may refer to any form of public ledger that solves the double-spending and consensus problems or can mean more narrowly a public ledger based on the Bitcoin proof of work system. |
 | Blockchain, The | "The Blockchain" is the Bitcoin ledger connected to the Bitcoin genesis block. |
@@ -21,13 +21,14 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | Core Developer | A developer with commit access to the main source code repository for a project. |
 | Core Contributor | A developer who has written code that has been accepted into the main source code repository for a project. |
 | Core Maintainer | The lead Core Developer for a project, oversees development, merges, and releases.|
-| Fork ||
-| Hard Fork ||
-| Hash | |
+| Fork |A divergence in the Blockchain|
+| Hard Fork |Permanently divergent chains: one for non-upgraded nodes and one for upgraded nodes|
+| Soft Fork |A state where upgraded nodes control majority of the hash rate to prevent the blockchain from permanently diverging|
+| Hash |A hash function is any function that can be used to map data of arbitrary size to data of fixed size. See [How do one way hash functions work](https://stackoverflow.com/questions/2112685/how-do-one-way-hash-functions-work)|
 | Hash Chain | The successive application of a hash function to a piece of data. The hash function can be applied successively to additional pieces of data in order to record the chronology of data's existence and secure non-repudiation. |
-| Hash Rate | |
+| Hash Rate |The number of times a hash function can be computed per second.|
 | Jeremy Rubin | Bitcoin hacker and generally viewed as a troublemaker. |
-| Ledger ||
+| Ledger | A record of transactions.|
 | Merkle Tree | a hash tree data structure for efficiently committing to information. Informally, given a hash h, MerkleTree(h,a) = h(MerkleTree(a[:half])+MerkleTree(a[half:])). Proofs of membership are O(log n)|
 | Mining ||
 | Node ||
@@ -38,7 +39,7 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | Public Key | |
 | Public Key Infrastructure (PKI) ||
 | Scalability ||
-| SHA-256 | |
+| SHA-256 | A 256 bit one way hash function.|
 | Sidechain ||
 | Signature | |
 | Soft Fork ||
@@ -61,4 +62,4 @@ _We may want to put these in a different document but:_
 | coinbase | https://support.coinbase.com/customer/portal/articles/1833695-bitcoin-glossary |
 | CoinDesk | http://www.coindesk.com/information/bitcoin-glossary/ |
 | Oleg Andreev | https://github.com/oleganza/bitcoin-papers/blob/master/BitcoinGlossary.md |
-
+|Lopp.net Bitcoin resources| (http://lopp.net/bitcoin.html)|
