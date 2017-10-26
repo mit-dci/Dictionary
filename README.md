@@ -21,6 +21,7 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | Core Developer | A developer with commit access to the main source code repository for a project. |
 | Core Contributor | A developer who has written code that has been accepted into the main source code repository for a project. |
 | Core Maintainer | The lead Core Developer for a project, oversees development, merges, and releases.|
+| Distributed Hash Table | (DHT) is a class of a decentralized distributed system that provides a lookup service similar to a hash table: (key, value) pairs are stored in a DHT, and any participating node can efficiently retrieve the value associated with a given key.
 | Fork ||
 | Hard Fork ||
 | Hash | |
