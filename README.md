@@ -38,7 +38,7 @@ The tricky part is that upper-case bitcoin might mean something different than l
 | Public Key | |
 | Public Key Infrastructure (PKI) ||
 | Scalability ||
-| SHA-256 | A strong one-way encryption algorightm which generates a 64 character long unique string for any given input. |
+| SHA-256 | A strong one-way encryption algorithm which generates a 64 character long unique string for any given input. |
 | Sidechain ||
 | Signature | |
 | Soft Fork ||
